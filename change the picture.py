@@ -1,0 +1,13 @@
+import turtle
+wn=turtle.Screen()
+t1=turtle.Turtle()
+wn.addshape("CAT.gif")
+t1.shape("CAT.gif")
+t1.fd(90)
+t1.rt(90)
+t1.fd(90)
+t1.rt(90)
+t1.fd(90)
+t1.rt(90)
+t1.fd(90)
+t1.rt(90)
